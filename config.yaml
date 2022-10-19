@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "https://localhost"
 languageCode: en-us
-title: Clase ejemplo
-theme: hugo-profile
+title: "Mario Aranda"
+theme : "hugo-coder" 
